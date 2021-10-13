@@ -12,3 +12,5 @@
 
     It was overall a fun, but very hard process. 
     Im satisfied with the overall look and functionalities of the webpage, and Im certainly happy with the new skills gained in the process.
+
+//Still have to add the video file to the page
